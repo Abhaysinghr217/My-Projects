@@ -1,4 +1,3 @@
-Tweets Fetcher
 Tweets Fetcher is a Node.js-based application designed to fetch and display tweets from Twitter. This tool allows users to retrieve tweets based on specific keywords, hashtags, or user handles, making it easier to monitor and analyze Twitter activity.
 
 Features:
